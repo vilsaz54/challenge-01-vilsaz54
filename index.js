@@ -3,6 +3,7 @@
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {};
 const secondUser = {};
+console.log("da");
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
 const users = [];
